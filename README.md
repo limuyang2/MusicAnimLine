@@ -29,10 +29,10 @@ dependencies {
 <top.limuyang2.musicanimlineview.MusicAnimLineView
 	android:id="@+id/lineView"
 	android:layout_width="150dp"
-    android:layout_height="150dp"
-    app:isAutoPlay="false"
-    app:line_color="#22b1f9"
-    app:line_width="3dp" />
+        android:layout_height="150dp"
+        app:isAutoPlay="false"
+        app:line_color="#22b1f9"
+        app:line_width="3dp" />
 ```
 ## 属性说明
 
